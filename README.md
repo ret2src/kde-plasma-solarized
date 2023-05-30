@@ -17,7 +17,7 @@ You can also use a tool like `wget` to download the files:
 ``` bash
 $ wget https://raw.githubusercontent.com/ret2src/kde-plasma-solarized/main/BreezeSolarizedDark.colors -O ~/.local/share/color-schemes/BreezeSolarizedDark.colors
 
-$ wget https://raw.githubusercontent.com/ret2src/kde-plasma-solarized/main/BreezeSolarizedLight.colors -O ~/.local/share/color-schemes/BreezeSolarizedDark.colors
+$ wget https://raw.githubusercontent.com/ret2src/kde-plasma-solarized/main/BreezeSolarizedLight.colors -O ~/.local/share/color-schemes/BreezeSolarizedLight.colors
 ```
 
 ## Accent Color
